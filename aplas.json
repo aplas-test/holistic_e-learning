@@ -1,20 +1,24 @@
 {
-  "id": "holistic_e-learning",
-  "name": "Holistic E-learning",
-  "categoryId": "platform",
-  "description": "Diverse static utilisation",
-  "investment_24m": "284",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "41",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "10",
-  "deployment_date": "7/1/08",
-  "end_of_maintenance": "11/2/17",
-  "department": "Support",
-  "status": "Active",
-  "end_of_life": "3/10/18",
-  "months_to_renew_support": "10",
-  "sme_email": "Jessi.Shankland@memento.net.au",
-  "investment_number": "233"
+  "applications": [
+    {
+      "id": "holistic_e-learning",
+      "name": "Holistic E-learning",
+      "categoryId": "platform",
+      "description": "Diverse static utilisation",
+      "investment_24m": "284",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "41",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "10",
+      "deployment_date": "7/1/08",
+      "end_of_maintenance": "11/2/17",
+      "department": "Support",
+      "status": "Active",
+      "end_of_life": "3/10/18",
+      "months_to_renew_support": "10",
+      "sme_email": "Jessi.Shankland@memento.net.au",
+      "investment_number": "233"
+    }
+  ]
 }

@@ -18,7 +18,28 @@
       "end_of_life": "3/10/18",
       "months_to_renew_support": "10",
       "sme_email": "Jessi.Shankland@memento.net.au",
-      "investment_number": "233"
+      "investment_number": "233",
+      "integrations": [
+        {
+          "id": "int-143",
+          "name": "INT-143",
+          "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
+          "description": "Vestibulum rutrum rutrum neque.",
+          "sourceApplicationId": "holistic_e-learning",
+          "targetApplicationId": "veribet",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Fire and Forget",
+          "golive_date": "8/2/10",
+          "sme_name": "Hildegaard Tollit",
+          "datacentre": "Altona",
+          "department": "Datawarehouse",
+          "status": "Active",
+          "sme_email": "htollita@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "3/8/15"
+        }
+      ]
     }
   ]
 }

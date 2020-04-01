@@ -25,7 +25,6 @@
           "name": "INT-143",
           "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
           "description": "Vestibulum rutrum rutrum neque.",
-          "sourceApplicationId": "holistic_e-learning",
           "targetApplicationId": "veribet",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
